@@ -5245,6 +5245,9 @@
 		"res/UI/StartupScene_DonkeyKong.json": {
 			"md5": "994702ca8fb1cc38f7c825db497e79dd"
 		},
+		"res/UI/StartupScene_EmulatorGames.json": {
+			"md5": "d04a593517fb6499a79857c4f7c8a93f"
+		},
 		"res/UI/StartupScene_FCEMU.json": {
 			"md5": "997b17233a31c760bbc2e00091addb60"
 		},
@@ -5816,7 +5819,7 @@
 			"md5": "30bb43071da4cf9439a5b94f5b880da3"
 		},
 		"src/NES/Home/StartupScene.js": {
-			"md5": "386a4f60e1c02dc2f1a43dd7bd69f66d"
+			"md5": "56bca80e7267c82af37ddbe0a64ff6cc"
 		},
 		"src/NES/initForWeb.js": {
 			"md5": "7c011e76000cab79d022a3b8cfdc2ae5"
